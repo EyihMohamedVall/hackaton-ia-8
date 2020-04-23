@@ -1,0 +1,6 @@
+{
+  "endpoints": {
+    "GET_USER": "/:userId",
+    "GET_USER_RECOMMENDATIONS": "/:userId/recommendation"
+  }
+}

@@ -1,0 +1,42 @@
+[
+  {
+     "input":[{
+       "interests": "editing",
+        "objectifs":{
+           "type":"industry",
+           "value":"cinema"
+        }
+     }],
+     "output":"video-editor"
+  },
+  {
+     "input":[{
+      "interests": "start-ups",
+        "objectifs":{
+           "type":"career",
+           "value":"sales"
+        }
+     }],
+     "output":"business-developement"
+  },
+  {
+     "input":[{
+        "interests": "crafting",
+        "objectifs":{
+           "type":"industry",
+           "value":"ecology"
+        }
+     }],
+     "output":"environmental-engigneer"
+  },
+  {
+     "input":[{
+        "interests": "computers",
+        "objectifs":{
+           "type":"industry",
+           "value":"tech"
+        }
+     }],
+     "output":"web-software-engigneer"
+  }
+]

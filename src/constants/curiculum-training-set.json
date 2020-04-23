@@ -1,0 +1,67 @@
+[
+  {
+     "input":[
+           {
+              "competence":"organisational-skills",
+              "rate":3
+           },
+           {
+              "competence":"problem-solving",
+              "rate":5
+           }
+        ],
+     "output":"management"
+  },
+  {
+     "input": [
+           {
+              "competence":"engineering",
+              "rate":5
+           },
+           {
+              "competence":"memorization",
+              "rate":3
+           },
+           {
+              "competence":"coding",
+              "rate":3
+           }
+        ],
+     "output":"software-engigneer"
+  },
+  {
+     "input":[
+           {
+              "competence":"engineering",
+              "rate":3
+           }
+        ],
+     "output":"engigneer"
+  },
+  {
+     "input": [
+           {
+              "competence":"communication",
+              "rate":4
+           },
+           {
+              "competence":"designing",
+              "rate":2
+           }
+        ],
+     "output":"communication-digital"
+  },
+  {
+     "input": [
+           {
+              "competence":"coding",
+              "rate":5
+           },
+           {
+              "competence":"problem-solving",
+              "rate":4
+           }
+        ],
+     "output":"developement"
+  }
+]
